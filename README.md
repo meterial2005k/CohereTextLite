@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📝 CohereTextLite
 
 **CohereTextLite** is a lightweight text summarizer powered by [Cohere's AI API](https://cohere.com/) and built with [Streamlit](https://streamlit.io/). Paste any long-form text and get a clear, concise summary in seconds.
@@ -63,3 +64,7 @@ Paste any long text and get a clean, accurate summary in seconds. This project u
 
 #AI #NLP #Cohere #Streamlit #Python #TextSummarization #OpenSource
 ```
+=======
+# CohereTextLite
+just learning about genAI
+>>>>>>> 8fa155a5283f9eaa642bb3d280e7d594d46ecd3a
